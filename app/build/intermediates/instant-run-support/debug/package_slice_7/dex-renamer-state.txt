@@ -1,4 +1,4 @@
-#Mon Mar 18 10:13:01 CST 2019
-base.0=E\:\\downloads\\android\\aTestApp2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+#Mon Mar 25 15:28:28 CST 2019
+base.0=E\:\\downloads\\android\\aTestApp2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\45
 renamed.0=classes.dex
-file.0=E\:\\downloads\\android\\aTestApp2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26\\classes.dex
+file.0=E\:\\downloads\\android\\aTestApp2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\45\\classes.dex
